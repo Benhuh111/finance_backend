@@ -37,7 +37,7 @@ The application supports creating, reading, updating, and deleting user preferen
 1. **Clone the Repository**:
 
 In any command prompt or on your console:
-```git clone https://github.com/benhuh111/DEVjensen.git``` 
+```git clone https://github.com/benhuh111/finance_backend.git``` 
 
 ```cd DEVjensen```
 
