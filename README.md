@@ -97,7 +97,7 @@ These endpoints can be accessed via Postman or through direct HTTP requests.
 
 ## Database Configuration
 
-This application uses MySQL to persist user preferences. Ensure your MySQL server is running, and that the application.yml configuration mathces your MySQL setup.
+This application uses MySQL to persist user preferences. Ensure your MySQL server is running, and that the application.yml configuration matches your MySQL setup.
 
 ## Future Improvements
 * **API Integration**: Integrate with a real finance API to replace mock data.
